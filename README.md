@@ -66,7 +66,7 @@ A personal homelab with containerized services, media stack, and infra automatio
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 📫 **Email:** splitcell01@gmail.com  
 🔗 **LinkedIn:** [*(add link here)*](https://www.linkedin.com/in/colecschmidt/)  
