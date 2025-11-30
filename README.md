@@ -1,18 +1,15 @@
 # Hi, I'm Cole!
 
-I'm a software engineer interested in backend systems, distributed computing, and networking.
-I like building real, working systems — Go services, networked applications, homelab setups, 
-and cloud-deployed infrastructure. I learn best by creating projects that explore how 
-concurrency, communication, and protocol design work under the hood.
+I'm a software engineer who enjoys building backend systems and anything that touches networks or distributed behavior. Most of my learning comes from making real things work: Go services, networked apps, self-hosted infrastructure, and small systems that help me understand how everything fits together. I like digging into how data moves around, why protocols behave the way they do, and how to make services more reliable.
 
 ---
 
 ## Technical Interests
 
-**Languages:** Go, Python, Java, C, C++, SQL  
-**Systems & Networking:** TCP/IP, DNS, WebSockets, TLS, concurrency, sockets  
-**Infrastructure:** Docker, Docker Compose, Kubernetes (learning), monitoring/metrics  
-**DevOps & Cloud:** Linux, VPS deployment, basic firewall/routing, CI/CD pipelines
+**Languages:** Go, Python, Java, C, C++, SQL
+**Systems & Networking:** TCP/IP, DNS, WebSockets, TLS, concurrency, sockets 
+**Infrastructure:** Docker, Docker Compose, Kubernetes (learning), metrics/observability
+**DevOps & Cloud:** Linux, VPS deployment, routing/firewall basics, CI/CD
 
 ---
 
@@ -21,14 +18,11 @@ concurrency, communication, and protocol design work under the hood.
 ### **Secure Messenger — Go Backend + JavaFX Client**  
 *A real-time messaging platform built to explore WebSockets, auth, and cloud deployment.*
 
-- Real-time WebSocket messaging with presence & typing indicators  
-- JWT authentication  
-- Go backend with concurrency-safe handlers and structured logging  
-- Docker Compose orchestration and full TLS termination  
-- Deployed on a Linux VPS with Caddy + firewall configuration  
-- (In progress) observability + metrics integration
-
-**Private repo — available upon request.**
+- WebSocket messaging with presence and typing indicators
+- Go backend with concurrency-safe handlers and structured logs
+- JWT auth + TLS termination via Caddy
+- Docker Compose deployment on a Linux VPS
+- JWT authentication
 
 ---
 
