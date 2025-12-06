@@ -1,77 +1,66 @@
 # Hi, I'm Cole!
 
-I'm a software engineer who enjoys building backend systems and anything that touches networks or distributed behavior. Most of my learning comes from making real things work: Go services, networked apps, self-hosted infrastructure, and small systems that help me understand how everything fits together. I like digging into how data moves around, why protocols behave the way they do, and how to make services more reliable.
+I build things that move data around: backend services, networking tools, and small distributed systems that help me understand how real infrastructure works. I love figuring out why systems behave the way they do and making them a little faster, more reliable, or more interesting.
 
 ---
 
-## Technical Interests
+## 🧠 What I Like Working On
 
-**Languages:** Go, Python, Java, C, C++, SQL
-**Systems & Networking:** TCP/IP, DNS, WebSockets, TLS, concurrency, sockets 
-**Infrastructure:** Docker, Docker Compose, Kubernetes (learning), metrics/observability
-**DevOps & Cloud:** Linux, VPS deployment, routing/firewall basics, CI/CD
-
----
-
-## Featured Projects
-
-### **Secure Messenger — Go Backend + JavaFX Client**  
-*A real-time messaging platform built to explore WebSockets, auth, and cloud deployment.*
-
-- WebSocket messaging with presence and typing indicators
-- Go backend with concurrency-safe handlers and structured logs
-- JWT auth + TLS termination via Caddy
-- Docker Compose deployment on a Linux VPS
-- JWT authentication
+**Languages:** Go, Python, Java, C, C++  
+**Systems:** concurrency, networking protocols, WebSockets, DNS, TLS  
+**Infra:** Docker, Kubernetes (learning), Linux, observability  
+**DevOps:** CI/CD, VPS hosting, reverse proxies, monitoring stacks  
 
 ---
 
-### **DNS Server — Python Networking Project**  
-*A concurrent DNS server built from scratch to learn socket programming and protocol handling.*
+## 🏗️ Projects I’m Proud Of
 
-- Handles multiple clients using non-blocking I/O  
-- Custom query parsing + response generation  
-- DNS caching + logging  
-- Built in Python using low-level socket APIs
+### **Secure Messenger — Go backend + desktop client**  
+A real-time messaging system with WebSockets, presence, and structured logging.
 
-**Private repo — available upon request.**
-
----
-
-### **Image Processing Client-Server — C + TCP**  
-*A Linux client-server system for image rotation and file transfer.*
-
-- Custom networking protocol over TCP  
-- Robust error handling and logging  
-- Threaded request handling  
-- Implemented in C for performance + OS-level awareness
-
-**Private repo — available upon request.**
+- Concurrency-safe message handling in Go  
+- JWT auth + TLS termination  
+- Docker Compose deployment  
+- PostgreSQL storage + logging  
+- JavaFX desktop UI  
 
 ---
 
-### **Homelab Infrastructure – Docker + Linux**  
-*A personal homelab used for learning infrastructure, routing, and system administration.*
+### **DNS Server — Python**  
+A from-scratch DNS server to better understand low-level networking.
 
-- Docker Compose services for monitoring, media stack, and utilities  
-- Experimentation with VPNs, traffic routing, and container networking  
-- Automated backups + service configuration  
-- Self-hosted services for testing deployment workflows
-
-**Private repo — available upon request.**
+- Raw socket parsing + response construction  
+- Concurrent request handling  
+- Basic caching + instrumentation  
 
 ---
 
-## Background
+### **Image Processing Server — C + TCP**  
+A client–server app for transferring images and rotating them via a custom protocol.
 
-- B.A. in Computer Science — University of Minnesota  
-- Coursework in networks, operating systems, secure software, and systems  
-- Hands-on experience building distributed systems concepts and backend applications  
-- Strong interest in Cloudflare-style networking problems, performance, and service reliability
+- Multi-threaded request handling  
+- Binary protocol over TCP  
+- File transfer + processing pipeline  
 
 ---
 
-## Connect With Me
+### **Homelab Infrastructure — Docker + Linux**  
+My playground for learning real ops work.
 
-📫 Email: **splitcell01@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/colecschmidt/
+- Monitoring stack, media stack, VPN, routing experiments  
+- Automated configs and backups  
+- A place to test deployments, service reliability, and networking ideas  
+
+---
+
+## 🎓 About Me
+
+- CS degree from the University of Minnesota  
+- Curious about distributed systems, backend engineering, and networking  
+- Trying to understand things the way Cloudflare, Netflix, and large-scale systems engineers do  
+
+---
+
+## 📫 Contact  
+**Email:** splitcell01@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/colecschmidt/
